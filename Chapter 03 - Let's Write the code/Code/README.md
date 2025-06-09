@@ -1,12 +1,16 @@
 # 🚀 Namaste Node.js - Episode 3 Summary
 
-> 🎬 **Getting Started with Node.js – From Installation to Writing Your First JS Code**
 
-![Node.js](https://img.shields.io/badge/Node.js-Setup%20Guide-brightgreen?style=for-the-badge&logo=node.js)
-![Platform](https://img.shields.io/badge/Platform-Cross--OS-blue?style=flat-square)
-![Editor](https://img.shields.io/badge/Editor-VS%20Code-purple?style=flat-square)
+
+
+![GitHub stars](https://img.shields.io/github/stars/HarshilTandel/NamasteNodeJs?style=social)
+![GitHub forks](https://img.shields.io/github/forks/HarshilTandel/NamasteNodeJs?style=social)
+![License](https://img.shields.io/github/license/HarshilTandel/NamasteNodeJs)
+![Node.js](https://img.shields.io/badge/node.js-18.x-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/HarshilTandel/NamasteNodeJs)
 
 ---
+> 🎬 **Getting Started with Node.js – From Installation to Writing Your First JS Code**
 
 ## 📦 Installing Node.js (Step-by-Step)
 

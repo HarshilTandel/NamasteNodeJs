@@ -2,9 +2,12 @@
 
 > 📺 **Chapter 01: Introduction to Node.js**
 
-![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen?style=for-the-badge&logo=node.js)  
-![Maintained](https://img.shields.io/badge/Maintained-Yes-blue?style=flat-square)  
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
+![GitHub stars](https://img.shields.io/github/stars/HarshilTandel/NamasteNodeJs?style=social)
+![GitHub forks](https://img.shields.io/github/forks/HarshilTandel/NamasteNodeJs?style=social)
+![License](https://img.shields.io/github/license/HarshilTandel/NamasteNodeJs)
+![Node.js](https://img.shields.io/badge/node.js-18.x-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/HarshilTandel/NamasteNodeJs)
 
 ---
 

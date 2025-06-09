@@ -1,10 +1,13 @@
 # 🚀 Namaste Node.js - Episode 4 Summary  
+
+
+![GitHub stars](https://img.shields.io/github/stars/HarshilTandel/NamasteNodeJs?style=social)
+![GitHub forks](https://img.shields.io/github/forks/HarshilTandel/NamasteNodeJs?style=social)
+![License](https://img.shields.io/github/license/HarshilTandel/NamasteNodeJs)
+![Node.js](https://img.shields.io/badge/node.js-18.x-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/HarshilTandel/NamasteNodeJs)
+
 > 📦 **Modules in Node.js — Reuse & Share Code Across Files**
-
-![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen?style=for-the-badge&logo=node.js)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-blue?style=flat-square)
-![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-
 ---
 
 ## 🔄 Importing Modules Using `require()`
